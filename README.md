@@ -17,4 +17,4 @@ https://user-images.githubusercontent.com/110641061/216730918-af627ab9-c6fa-40da
 ## The Team:
 * Bryan Park — <a href="https://www.linkedin.com/in/bryanjpark/" target="_blank">LinkedIn</a> | <a className='text-light-blue hover:text-dark-blue' href="https://github.com/bryan-j-park" target='_blank' rel="noopener noreferrer">Github</a>
 * Erwin Rosales — <a href="https://www.linkedin.com/in/erwin-rosales-724334253/" target="_blank">LinkedIn</a> | <a className='text-light-blue hover:text-dark-blue' href="https://github.com/Erwin-R" target='_blank' rel="noopener noreferrer">Github</a>
-* Gabriela Flores — <a href="https://www.linkedin.com/in/gabrielareneflores/" target="_blank">LinkedIn</a> | <a className='text-light-blue hover:text-dark-blue' href="https://github.com/floresgabriela" target='_blank' rel="noopener noreferrer">Github</a>
+* Gabriela Flores — <a href="https://www.linkedin.com/in/g-flo/" target="_blank">LinkedIn</a> | <a className='text-light-blue hover:text-dark-blue' href="https://github.com/floresgabriela" target='_blank' rel="noopener noreferrer">Github</a>
